@@ -1,5 +1,6 @@
 # Windows_Service_to_do_some_file_manipulation
 Studied manipulation of files in Windows service
+
 Installation: Simply download and extract a ZIP-file from a password protected web server to a designated directory, and place a shortcut in shell:startup for a given exe-file. No other installation steps necessary. 
 
  
